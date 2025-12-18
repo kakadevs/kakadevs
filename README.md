@@ -5,6 +5,21 @@
 Olá, Me chamo Kauã Silva, tenho 18 anos e sou natural do São Paulo. Concluí o ensino médio no EE NATHANAEL SILVA, com o curso técnico em informática pela Sequencial. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIANCHIETA. Sou fascinado por tecnologia e compartilho meu conhecimento através do meu perfilo no Linkedln "[Kauã Silva](www.linkedin.com/in/KauãSilvacs)", onde sigo uma comunidade ampla em tecnologia.
 Atualmente estou mais focado na minha primeira certificação pela Amazon Web Services, tenho muito interesse em aprender novas coisas e compartilhar com todos, trazendo um imenso networking para mim tanto no lado profissional, quanto para o pessoal.
 
+    <p align="left">
+    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.youtube.com/@larissakich">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -158,5 +173,4 @@ Atualmente estou mais focado na minha primeira certificação pela Amazon Web Se
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
