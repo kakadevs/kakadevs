@@ -2,8 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Olá, Me chamo Kauã Silva, tenho 18 anos e sou natural do São Paulo. Concluí o ensino médio no EE NATHANAEL SILVA, com o curso técnico em informática pela Sequencial. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIANCHIETA. Sou fascinado por tecnologia e compartilho meu conhecimento através do meu perfilo no Linkedln "[Kauã Silva](www.linkedin.com/in/KauãSilvacs)",
-)", onde sigo uma comunidade ampla em tecnologia.
+Olá, Me chamo Kauã Silva, tenho 18 anos e sou natural do São Paulo. Concluí o ensino médio no EE NATHANAEL SILVA, com o curso técnico em informática pela Sequencial. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIANCHIETA. Sou fascinado por tecnologia e compartilho meu conhecimento através do meu perfilo no Linkedln "[Kauã Silva](www.linkedin.com/in/KauãSilvacs)", onde sigo uma comunidade ampla em tecnologia.
 Atualmente estou mais focado na minha primeira certificação pela Amazon Web Services, tenho muito interesse em aprender novas coisas e compartilhar com todos, trazendo um imenso networking para mim tanto no lado profissional, quanto para o pessoal.
 
 <p align="left">
