@@ -1,11 +1,6 @@
-#  Kaua Silva
+#  Kaua Silva **`Estudante de Engenharia de Software`** Olá, Me chamo Kauã Silva, tenho 18 anos e sou natural do São Paulo. Concluí o ensino médio no EE NATHANAEL SILVA, com o curso técnico em informática pela Sequencial. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIANCHIETA. Sou fascinado por tecnologia e compartilho meu conhecimento através do meu perfilo no Linkedln "[Kauã Silva](www.linkedin.com/in/KauãSilvacs)", onde sigo uma comunidade ampla em tecnologia. Atualmente estou mais focado na minha primeira certificação pela Amazon Web Services, tenho muito interesse em aprender novas coisas e compartilhar com todos, trazendo um imenso networking para mim tanto no lado profissional, quanto para o pessoal.
 
-**`Estudante de Engenharia de Software`**
-
-Olá, Me chamo Kauã Silva, tenho 18 anos e sou natural do São Paulo. Concluí o ensino médio no EE NATHANAEL SILVA, com o curso técnico em informática pela Sequencial. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIANCHIETA. Sou fascinado por tecnologia e compartilho meu conhecimento através do meu perfilo no Linkedln "[Kauã Silva](www.linkedin.com/in/KauãSilvacs)", onde sigo uma comunidade ampla em tecnologia.
-Atualmente estou mais focado na minha primeira certificação pela Amazon Web Services, tenho muito interesse em aprender novas coisas e compartilhar com todos, trazendo um imenso networking para mim tanto no lado profissional, quanto para o pessoal.
-
-    <p align="left">
+<p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
@@ -173,4 +168,5 @@ Atualmente estou mais focado na minha primeira certificação pela Amazon Web Se
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
