@@ -1,4 +1,4 @@
-## 🤖  Kaua Silva
+## 🤖  Kauã Silva
 
 **`Estudante de Engenharia de Software`** 
 
